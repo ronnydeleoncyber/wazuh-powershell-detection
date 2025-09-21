@@ -1,5 +1,10 @@
 # 🔎 wazuh-powershell-detection
 
+<img width="753" height="315" alt="image" src="https://github.com/user-attachments/assets/73d2b2f7-1b87-4bee-8e11-1ba561f91d18" />
+
+
+
+
 **Detección de ejecución maliciosa en PowerShell con Wazuh.**  
 Reglas, configuraciones y prueba práctica mapeada a **MITRE ATT&CK (T1059.001)**.
 
